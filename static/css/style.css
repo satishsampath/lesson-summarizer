@@ -1,0 +1,34 @@
+.progressOverlay {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 20%;
+  opacity: 90%;
+  background-color: green;
+  color: white;
+  left: 0px;
+  top: 0px;
+}
+#summarizingIndicator > img {
+  width: 32px;
+  height: 32px;
+}
+#uploadPhotoDiv {
+  margin-bottom: 50px;
+}
+#summary img {
+  width: 128px;
+  height: 128px;
+}
+.summaryRow {
+  flex-wrap: nowrap !important;
+  width: fit-content;
+}
+.summaryCell {
+  padding-right: 10px;
+  padding-bottom: 25px;
+  width: fit-content !important;
+  max-width: 50% !important;
+}

@@ -2,7 +2,7 @@
 service-account-creds.json
 setupenv.bat
 .gcloudignore
-requirements.txt
+env_variables.yaml
 
 # temp files
 *_response.json
