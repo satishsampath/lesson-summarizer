@@ -1,3 +1,9 @@
+# lesson-summarizer related
+service-account-creds.json
+setupenv.bat
+.gcloudignore
+requirements.txt
+
 # temp files
 *_response.json
 
